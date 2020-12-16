@@ -39,6 +39,7 @@ namespace ConsoleApp1
                     Console.Write("{0} ", num);
             }
             Console.Write("\n");
+            Console.WriteLine("final statement");
         }
 
     }
